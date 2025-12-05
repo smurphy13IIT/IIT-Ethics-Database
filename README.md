@@ -39,7 +39,7 @@
 
 # Introduction
 
-This is the development and production infrastructure for Illinois TEch's Codes of Ethics Database.
+This is the development and production infrastructure for Illinois Tech's Codes of Ethics Database.
 
 # Requirements
 
